@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlashChat-Completed-master.iml" filepath="$PROJECT_DIR$/FlashChat-Completed-master.iml" />
+      <module fileurl="file://C:\FlashChat-Completed-master\FlashChat-Firebase-Android-master.iml" filepath="C:\FlashChat-Completed-master\FlashChat-Firebase-Android-master.iml" />
+      <module fileurl="file://C:\FlashChat-Completed-master\app\app.iml" filepath="C:\FlashChat-Completed-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
